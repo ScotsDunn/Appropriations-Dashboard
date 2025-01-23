@@ -1,0 +1,12 @@
+name: SAF_Dashboard_V_Alpha_3
+title: SAF_Dashboard_V_Alpha_3
+username: scots
+account: scots
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12487235
+bundleId: 9073894
+url: https://scots.shinyapps.io/SAF_Dashboard_V_Alpha_3/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
